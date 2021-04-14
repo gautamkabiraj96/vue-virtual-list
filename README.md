@@ -1,2 +1,3 @@
 # vue-virtual-list
-Created with CodeSandbox
+
+Vue virtual scroll list example
